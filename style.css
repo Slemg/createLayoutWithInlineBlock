@@ -1,0 +1,40 @@
+body {
+    background: #FFF8E4;
+    font-family: 'Graphik LCG',sans-serif ;
+    text-align: center;
+}
+.title {
+    color: #000000;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 79px;
+}
+.web,.mobile,.games {
+    text-align: center;
+    display: inline-block;
+    margin:0 123px;
+    margin-bottom: 75px;
+}
+.documents,.email,.iot {
+    text-align: center;
+    display: inline-block;
+    margin:0 123px;
+}
+section {
+    max-width:2560px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 35px;
+}
+h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    max-width: 303px;
+}
